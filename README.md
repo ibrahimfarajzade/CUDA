@@ -1,2 +1,2 @@
 # CUDA
-Matrix Operations CUDA
+CUDA Matrix Operations 
